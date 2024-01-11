@@ -42,6 +42,11 @@ I specialize in various machine learning frameworks and tools, including:
 
 ## 📫 Let's Connect
 
-Feel free to reach out for collaborations, discussions, or just to say hi! You can find me on [LinkedIn](https://www.linkedin.com/in/vikasbhatnr/) or [Twitter](https://twitter.com/vikasbhat99) or [Instagram](https://www.instagram.com/vikas_bhat/).
+Feel free to reach out for collaborations, discussions, or just to say hi! You can find me on 
+
+<a href="https://www.linkedin.com/in/vikasbhatnr/">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
+</a>
+[LinkedIn](https://www.linkedin.com/in/vikasbhatnr/) or [Twitter](https://twitter.com/vikasbhat99) or [Instagram](https://www.instagram.com/vikas_bhat/).
 
 Looking forward to exploring the endless possibilities of AI together! 🤖✨
