@@ -35,8 +35,8 @@ I specialize in various machine learning frameworks and tools, including:
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="VSCode" **alt="VSCode" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
     
 </div>
 
@@ -47,6 +47,11 @@ Feel free to reach out for collaborations, discussions, or just to say hi! You c
 <a href="https://www.linkedin.com/in/vikasbhatnr/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/>
 </a>
-[LinkedIn](https://www.linkedin.com/in/vikasbhatnr/) or [Twitter](https://twitter.com/vikasbhat99) or [Instagram](https://www.instagram.com/vikas_bhat/).
+<a href="https://twitter.com/vikasbhat99">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Twitter" **alt="Twitter" width="40" height="40"/>
+</a>
+<a href="https://www.instagram.com/vikas_bhat/">
+<img src="https://github.com/gauravghongde/social-icons/SVG/Color/Instagram.svg" title="Instagram" **alt="Instagram" width="40" height="40"/>
+</a>
 
 Looking forward to exploring the endless possibilities of AI together! 🤖✨
