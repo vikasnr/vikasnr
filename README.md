@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/ai-stable-diffusion-animatediff-YiJTlLGomNP3TeJXdE" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFqZ2VmbDdwNzE5cWk2NW53ZmxsMnEwejJ6NnZkcDhyMTJwajh2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YiJTlLGomNP3TeJXdE/giphy-downsized-large.gif" width="100"/>
 </div>
 
 # Hi there! 👋
