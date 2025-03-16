@@ -4,21 +4,21 @@
 
 # Hi there! 👋
 
-I'm Vikas, an experienced AI engineer with a passion for building intelligent systems. With over 8 years in the industry, I have had the opportunity to work on diverse projects, solving challenging problems using cutting-edge technologies.
+I'm Vikas, a Senior AI engineer with a passion for building intelligent systems. With over 9 years in the industry, I have had the opportunity to work on diverse projects, solving challenging problems using cutting-edge technologies.
 
 ## 🔧 Technologies & Tools
 
-I specialize in various machine learning frameworks and tools, including:
+I specialize in various machine learning and generative AI frameworks, including:
 
 - **TensorFlow**: Leveraging the power of deep learning for scalable and efficient AI solutions.
-
 - **PyTorch**: Crafting dynamic computational graphs to push the boundaries of AI research and development.
-
 - **Scikit-learn**: Applying classical machine learning techniques for robust and interpretable models.
-
 - **Hugging Face Transformers**: Harnessing the latest in NLP and transformer-based models for natural language understanding.
-
+- **Stable Diffusion & DALL·E**: Creating generative AI models for image synthesis and creative AI applications.
+- **LangChain & LlamaIndex**: Building Retrieval-Augmented Generation (RAG) pipelines for intelligent document retrieval and interactive AI agents.
+- **AWS Bedrock & OpenAI GPT**: Developing scalable, production-ready generative AI applications for text and multimodal use cases.
 - **Docker & Kubernetes**: Orchestrating and deploying AI solutions with containerization and orchestration.
+
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
