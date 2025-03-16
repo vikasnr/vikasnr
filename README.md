@@ -4,7 +4,7 @@
 
 # Hi there! 👋
 
-I'm Vikas, a Senior AI engineer with a passion for building intelligent systems. With over 9 years in the industry, I have had the opportunity to work on diverse projects, solving challenging problems using cutting-edge technologies.
+I'm Vikas, a Senior AI Engineer with a passion for building intelligent systems. With over 9 years in the industry, I have had the opportunity to work on diverse projects, solving challenging problems using cutting-edge technologies.
 
 ## 🔧 Technologies & Tools
 
